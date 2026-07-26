@@ -1,5 +1,3 @@
-```md
-
 Full-Stack Engineer with strong expertise in AI systems, building scalable applications that bridge modern software engineering and intelligent automation.
 
 My work focuses on designing end-to-end platforms—from responsive web applications and robust backend services to AI-powered workflows, retrieval systems, and machine learning integrations.
@@ -31,4 +29,3 @@ My work focuses on designing end-to-end platforms—from responsive web applicat
 ### 🚀 Philosophy
 
 I enjoy transforming research ideas into real-world products by combining software engineering, artificial intelligence, and computer vision to build practical systems that solve meaningful problems.
-```
